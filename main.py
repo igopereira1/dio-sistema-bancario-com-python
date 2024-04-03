@@ -1,4 +1,4 @@
-from bank_system import bank_system
+from bank_system import main
 
 if __name__ == "__main__":
-    bank_system()
+    main()
